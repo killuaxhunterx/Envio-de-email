@@ -1,6 +1,6 @@
 # Projeto de Envio de E-mails
 
-Este é um projeto simples de envio de e-mails criado utilizando HTML como base e integrado com PHP para o envio das mensagens. É ideal para iniciantes que desejam aprender como configurar e enviar e-mails diretamente de uma aplicação web.
+Este é um projeto simples de envio de e-mails criado utilizando HTML como base e integrado com PHP para o envio das mensagens. 
 
 ## Funcionalidades
 
@@ -12,7 +12,7 @@ Este é um projeto simples de envio de e-mails criado utilizando HTML como base 
 
 Para executar o projeto, é necessário:
 
-1. Servidor local configurado (recomenda-se o uso do XAMPP).
+1. Servidor local configurado (XAMPP).
 2. PHP instalado (versão mínima recomendada: 7.4).
 3. Acesso à internet para testar o envio de e-mails (caso o servidor SMTP esteja configurado para isso).
 
